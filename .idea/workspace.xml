@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6457cd9-39ea-4f03-b450-29d08bd72762" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TwitterCovid" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aGPyPhHnXhHH8QsAn1sKD9iz4W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tondeuse" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kafka-connect" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TwitterCovid (1)">
+    <configuration name="TwitterCovid (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TwitterCovid.TwitterCovid" />
+      <module name="TwitterCovid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TwitterCovid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterCovid" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TwitterCovid" />
+      <module name="TwitterCovid" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TwitterCovid (1)" />
+        <item itemvalue="Application.TwitterCovid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="TwitterCovid" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="twittercovid [file:/home/pierre/workspace/TwitterCovid/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="TwitterCovid-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3172807386421" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1219835114" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6457cd9-39ea-4f03-b450-29d08bd72762" name="Default Changelist" comment="" />
+      <created>1586359210124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586359210124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="238" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586541390636">
+      <screen x="65" y="24" width="1855" height="938" />
+    </state>
+    <state x="730" y="238" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/65.24.1855.938@65.24.1855.938" timestamp="1586541390636" />
+    <state x="805" y="180" key="#com.intellij.ide.util.MemberChooser" timestamp="1586368663440">
+      <screen x="65" y="24" width="1855" height="938" />
+    </state>
+    <state x="805" y="180" key="#com.intellij.ide.util.MemberChooser/65.24.1855.938@65.24.1855.938" timestamp="1586368663440" />
+    <state x="780" y="238" key="FileChooserDialogImpl" timestamp="1586701204321">
+      <screen x="65" y="24" width="1855" height="938" />
+    </state>
+    <state x="780" y="238" key="FileChooserDialogImpl/65.24.1855.938@65.24.1855.938" timestamp="1586701204321" />
+    <state width="1791" height="257" key="GridCell.Tab.0.bottom" timestamp="1586676148296">
+      <screen x="65" y="24" width="1837" height="920" />
+    </state>
+    <state width="1791" height="257" key="GridCell.Tab.0.bottom/65.24.1837.920@65.24.1837.920" timestamp="1586676148296" />
+    <state width="1809" height="257" key="GridCell.Tab.0.bottom/65.24.1855.938@65.24.1855.938" timestamp="1586541469946" />
+    <state width="1791" height="257" key="GridCell.Tab.0.center" timestamp="1586676148294">
+      <screen x="65" y="24" width="1837" height="920" />
+    </state>
+    <state width="1791" height="257" key="GridCell.Tab.0.center/65.24.1837.920@65.24.1837.920" timestamp="1586676148294" />
+    <state width="1809" height="257" key="GridCell.Tab.0.center/65.24.1855.938@65.24.1855.938" timestamp="1586541469945" />
+    <state width="1791" height="257" key="GridCell.Tab.0.left" timestamp="1586676148293">
+      <screen x="65" y="24" width="1837" height="920" />
+    </state>
+    <state width="1791" height="257" key="GridCell.Tab.0.left/65.24.1837.920@65.24.1837.920" timestamp="1586676148293" />
+    <state width="1809" height="257" key="GridCell.Tab.0.left/65.24.1855.938@65.24.1855.938" timestamp="1586541469944" />
+    <state width="1791" height="257" key="GridCell.Tab.0.right" timestamp="1586676148295">
+      <screen x="65" y="24" width="1837" height="920" />
+    </state>
+    <state width="1791" height="257" key="GridCell.Tab.0.right/65.24.1837.920@65.24.1837.920" timestamp="1586676148295" />
+    <state width="1809" height="257" key="GridCell.Tab.0.right/65.24.1855.938@65.24.1855.938" timestamp="1586541469946" />
+    <state x="304" y="203" key="new project wizard" timestamp="1586676141500">
+      <screen x="65" y="24" width="1837" height="920" />
+    </state>
+    <state x="304" y="203" key="new project wizard/65.24.1837.920@65.24.1837.920" timestamp="1586676141500" />
+    <state x="306" y="206" key="new project wizard/65.24.1855.938@65.24.1855.938" timestamp="1586426143291" />
+  </component>
+</project>
